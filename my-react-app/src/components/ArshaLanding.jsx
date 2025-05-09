@@ -10,7 +10,7 @@ import odendorffLogo from '../assets/odendorffLogo.png';
 import lillyLogo from '../assets/lillyLogo.png';
 import myobLogo from '../assets/myobLogo.png';
 import belimoLogo from '../assets/belimoLogo.png';
-import lifeGroupsLogo from '../assets/lifegroupsLogo.png';
+import lifegrouplogo from '../assets/lifegrouplogo.png';
 import frontlogo from '../assets/frontlogo.png'
 import eumlogo from '../assets/eumlogo.png'
 import quasi from '../assets/quasi.png'
@@ -246,7 +246,7 @@ const ArshaLanding = () => {
               <img src={belimoLogo} className="img-fluid" alt="Belimo" />
             </div>
             <div className="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-              <img src={lifeGroupsLogo} className="img-fluid" alt="Life Groups" />
+              <img src={lifegrouplogo} className="img-fluid" alt="Life Groups" />
             </div>
           </div>
         </div>
